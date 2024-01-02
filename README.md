@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [sherlok_game](https://github.com/darshan1005/sherlockgame.git)
   
-- 👯 I’m looking to collaborate on [custom-video-player](https://github.com/darshan1005/sherlockgame.git)
+- 👯 I’m looking to collaborate on [custom-video-player](https://darshan1005.github.io/video_player/)
 
 - 🤝 I’m looking for help with [my_profile](https://bermudadevs.netlify.app)
 
