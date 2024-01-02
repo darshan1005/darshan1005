@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **React parallax, native, framermotions & nodejs**
 
 - 👯 I’m looking to collaborate on [sherlok_game](https://github.com/darshan1005/sherlockgame.git)
+  
+- 👯 I’m looking to collaborate on [custom-video-player](https://github.com/darshan1005/sherlockgame.git)
 
 - 🤝 I’m looking for help with [my_profile](https://bermudadevs.netlify.app)
 
