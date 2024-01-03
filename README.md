@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan1005" alt="darshan1005" /></a> </p>
 
-- 🔭 I’m currently working on [GRKdigitalfashion](https://grkfashion.netlify.app)
+- 🔭 I’m currently working on to Develope MEGA PROJECT (COLLABORATING ALL MY MINI PROJECTS INTO SINGLE PROJECT)
 
 - 🌱 I’m currently learning **React parallax, native, framermotions & nodejs**
 
