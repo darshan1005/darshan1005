@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working to develop a MUSIC APPLICATION
 
-- 🌱 I’m currently learning **ASP.net, c#, ReduxToolKit**
+- 🌱 I’m currently learning **ASP.net, c#, ReduxToolKit, React Custom Components**
 
-- 👯 I’m looking to collaborate on [sherlok_game](https://github.com/darshan1005/sherlockgame.git)
+- 👯 I’m looking to collaborate on [sherlok_game](https://github.com/darshan1005/sherlockgame.git) [unlimited Music](https://github.com/darshan1005/Unlimited-Music)
 
-- 🤝 I’m looking for help with [my_profile](https://bermudadevs.netlify.app)
+- 🤝 I’m looking for help with [Unlimited Music](https://github.com/darshan1005/Unlimited-Music)
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshan1005](https://github.com/darshan1005)
 
