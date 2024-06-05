@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working to develop a MUSIC APPLICATION
 
-- 🌱 I’m currently learning **ASP.net, c#, ReduxToolKit, React Custom Components, React Native**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [sherlok_game](https://github.com/darshan1005/sherlockgame.git), [unlimited Music](https://github.com/darshan1005/Unlimited-Music), [React-Guide](https://github.com/darshan1005/React-beginner-guid)
+- 👯 I’m looking to collaborate on [unlimited Music](https://github.com/darshan1005/Unlimited-Music), [React-Guide](https://github.com/darshan1005/React-beginner-guid)
 
 - 🤝 I’m looking for help with [Unlimited Music](https://github.com/darshan1005/Unlimited-Music)
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshan1005](https://github.com/darshan1005)
-
-- 💬 Ask me about **react, nodejs, mongodb**
 
 - 📫 How to reach me **battuladarshan7838@gmail.com**
 
