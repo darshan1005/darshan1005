@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Darshan Battula</h1>
-<h3 align="center">A passionate webdeveloper & designer from India</h3>
+<h3 align="center">A passionate <b>webdeveloper & webdesigner</b> from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan1005&label=Profile%20views&color=0e75b6&style=flat" alt="darshan1005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan1005" alt="darshan1005" /></a> </p>
 
-- 🔭 I’m currently working to develop a MUSIC APPLICATION
+- 🔭 I’m currently working on a **MUSIC APPLICATION** self based.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native Typescript ReduxToolKit**
 
 - 👯 I’m looking to collaborate on [unlimited Music](https://github.com/darshan1005/Unlimited-Music), [React-Guide](https://github.com/darshan1005/React-beginner-guid)
 
 - 🤝 I’m looking for help with [Unlimited Music](https://github.com/darshan1005/Unlimited-Music)
 
-- 👨‍💻 All of my projects are available at [https://github.com/darshan1005](https://github.com/darshan1005)
+- 👨‍💻 All of my projects are available at [GITHub](https://github.com/darshan1005)
 
-- 📫 How to reach me **battuladarshan7838@gmail.com**
+- 📫 How to reach me **battuladarshan7838@gmail.com** | **+91 8978382717**
 
 <h3 align="left">Connect with me: 8978382717</h3>
 <p align="left">
