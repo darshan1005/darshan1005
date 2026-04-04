@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan1005" alt="darshan1005" /></a> </p>
 
-- 🔭 I’m currently working on a **MUSIC APPLICATION** self based.
-
-- 🌱 I’m currently learning **React Native Typescript ReduxToolKit**
-
-- 👯 I’m looking to collaborate on [unlimited Music](https://github.com/darshan1005/Unlimited-Music), [React-Guide](https://github.com/darshan1005/React-beginner-guid)
-
-- 🤝 I’m looking for help with [Unlimited Music](https://github.com/darshan1005/Unlimited-Music)
-
 - 👨‍💻 All of my projects are available at [GITHub](https://github.com/darshan1005)
 
 - 📫 How to reach me **battuladarshan7838@gmail.com** | **+91 8978382717**
