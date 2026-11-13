@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Battula</h1>
 <h3 align="center">A passionate <b>webdeveloper & webdesigner</b> from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan1005&label=Profile%20views&color=0e75b6&style=flat" alt="darshan1005" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan1005" alt="darshan1005" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [GITHub](https://github.com/darshan1005)
